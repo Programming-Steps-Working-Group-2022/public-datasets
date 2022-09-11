@@ -1,6 +1,25 @@
 Prompt:
 
-TODO: Translate the original
+Write a one-parameter function askPassword. When
+the function is called, it asks the user for a pass-
+word until the user enters the correct password.
+The correct password is given to the function as
+a parameter. When the user enters the correct
+password (i.e., the user's input corresponds to the
+value received as a parameter), the program prints
+the message 'Thank you!' To ask for a password,
+use the string 'Enter password.'
+
+Below is an example of the function when the function
+is called in the form askPassword('turnip');
+
+Enter password.
+< cauliflower
+Enter password.
+< carrot
+Enter password.
+< turnip
+Thank you!
 
 Solution:
 
