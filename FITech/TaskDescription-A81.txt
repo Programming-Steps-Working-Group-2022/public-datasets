@@ -1,0 +1,19 @@
+Prompt:
+
+Write a one-parameter function named explanation that, when called, returns
+information about whether the number given as a parameter is positive,
+negative, or zero. If the number is positive, the function should return the
+string 'Positive!' If the number is negative, the function should return the
+string 'Negative!' Otherwise, the function should return the string 'Zero!'
+
+Solution:
+
+explanation(number) {
+  if (number > 0) {
+    return 'Positive!';
+  } else if (number < 0) {
+    return 'Negative!';
+  } else {
+    return 'Zero!';
+  }
+}

@@ -1,0 +1,16 @@
+Prompt:
+
+TODO: Translate the original
+
+Solution:
+
+askPassword(password) {
+  while(true) {
+    print('Enter password.');
+    var answer = stdin.readLineSync();
+    if (answer == password) {
+      break;
+    }
+  }
+  print('Thank you!');
+}
