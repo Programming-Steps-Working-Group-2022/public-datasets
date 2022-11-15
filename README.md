@@ -10,6 +10,9 @@ The report selects following 5 datasets. We publish the working group's expert a
 
 The working group's expert annotation in selected programming steps is published in this repository under `CodingBat`. We are not allowed to republish the original dataset and the annotation data must be joined with the original dataset by the receiver.
 
+|[Annotation Data](CodingBat/)|
+|---|
+
 The original data can be requested from https://doi.org/10.21249/DZHW:studentsteps:1.0.0<br>
 Related report in German https://metadata.fdz.dzhw.eu/public/files/data-packages/stu-studentsteps$/attachments/studentsteps_Data_Methods_Report_de.pdf
 
@@ -17,7 +20,10 @@ Related report in German https://metadata.fdz.dzhw.eu/public/files/data-packages
 
 This data includes 25 sequences of programming steps where students work on introductory programming tasks. Task descriptions are included. We publish this data here for the fist time and include the working group's expert annotation in selected programming steps. The data is published in slightly modified Progsnap2-format in this repository under `FITech`.
 
-Additionally, the data can be explored using a browser tool at https://steps.cs.aalto.fi/
+|[Data](FITech/)|[Browse Online](https://steps.cs.aalto.fi/#fitech)|
+|---|---|
+
+*Note that most of the steps (rows) have empty cell in the intervention columns, and only the steps when the experts wanted to intervene are marked.*
 
 ### Bielefeld ###
 

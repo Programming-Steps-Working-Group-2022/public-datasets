@@ -44,8 +44,9 @@ The v6 format specification was violated in dropping two required columns.
 
 * X-CodeState: the code state i.e. current source code in the editor
 * X-ElapsedTime: seconds elapsed since task started
-* X-Intervene: Y = Intervention, two experts agreed
-               D = Intervention, two experts separately disagreed
+* X-Intervene:   = No intervention (empty cell, most of the rows/steps)
+               Y = Intervention, two experts agree
+               D = Intervention, two experts disagree
                R = No intervention, expert agreed run test results suffice
 * X-Why: A reason to intervene from the intervention guide
          compiler = Compiler error (unaddressed)
