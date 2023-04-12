@@ -2,7 +2,7 @@ This repository publishes resources related to the programming steps working gro
 
 ### See the working group report here: ###
 
-https://dl.acm.org/...TODO
+https://doi.org/10.1145/3571785.3574124
 
 The report selects following 5 datasets. We publish the working group's expert annotations for the two first datasets and link the others here as well for convenience.
 
